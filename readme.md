@@ -1,9 +1,11 @@
 # 说明
 
-cd dist
+该项目知识 ms-vscode serve 内容的最终版本（编译后的内容），其他相关内容，可以参看[vscode](https://github.com/microsoft/vscode)相关内容
 ## 下载 vscode cli
 
 ```sh
+cd dist
+
 curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64' --output vscode_cli.tar.gz
 
 tar -xf vscode_cli.tar.gz
