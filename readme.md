@@ -1,6 +1,6 @@
 # 说明
 
-该项目知识 ms-vscode serve 内容的最终版本（编译后的内容），其他相关内容，可以参看[vscode](https://github.com/microsoft/vscode)相关内容
+该项目只是 ms-vscode serve 内容的最终版本（编译后的内容），其他相关内容，可以参看[vscode](https://github.com/microsoft/vscode)相关内容
 ## 下载 vscode cli
 
 ```sh
